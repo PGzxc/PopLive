@@ -26,7 +26,7 @@
                     });
         }
         
-     ## 关闭动画效果  
+##  关闭动画效果  
      
      for (int i = 0; i < layout.getChildCount(); i++) {
             final View child = layout.getChildAt(i);
