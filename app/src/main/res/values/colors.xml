@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="transparent">#00000000</color>
+    <color name="inkebar">#1ADBE2</color>
+    <color name="horizontal_div">#F4F4F4</color>
+    <color name="light_grey">#CCCCCC</color>
+    <color name="background_default">#F5F2EF</color>
+    <color name="white">#FFFFFF</color> <!--白色 -->
+</resources>
